@@ -38,13 +38,13 @@
 
 ---
 
-## 📊 Deen-AI Architecture (Flowchart)
+## Deen-AI Architecture (Flowchart)
 
 ![Deen-AI Flowchart](Deliverables/Deen-AI-Flowchart.png)
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 | Component | Tool/Library |
 |----------|---------------|
@@ -59,13 +59,13 @@
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This tool is for educational and informational purposes only. While it uses verified sources, always cross-check religious guidance with a qualified scholar.
 
 ---
 
-## 👥 Authors
+## Authors
 
 Presenting to you this project, being 4th semester Students, enrolled in a Bachelors of "Artificial Intelligence" from Air University, Islamabad.
 - Hassan Bin Saqib (231170)
@@ -75,7 +75,7 @@ Presenting to you this project, being 4th semester Students, enrolled in a Bache
 
 ---
 
-## 🌐 License
+## License
 
 [MIT](LICENSE) – You may use and modify this project freely for non-commercial and educational purposes.
 
